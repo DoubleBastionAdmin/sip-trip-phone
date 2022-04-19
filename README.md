@@ -1,7 +1,7 @@
 <p align="center"><img src="sip_trip_phone_logo.svg" alt="SIP Trip Phone Logo"/></p>
 <span style="display:block;height:20px!important"></span>
 
-**SIP Trip Phone is a Nextcloud application that acts like a browser phone. It connects to an Asterisk server to make and receive phone calls using SIP over WebSocket and WebRTC.**
+**SIP Trip Phone is a browser phone in the form of a Nextcloud application. It can connect to SIP providers via Asterisk or directly.**
 
 License: GNU Affero General Public License Version 3
 
