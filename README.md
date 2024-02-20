@@ -3,7 +3,7 @@
 
 **SIP Trip Phone is a browser phone in the form of a Nextcloud application. It can connect to SIP providers via Asterisk or directly.**
 
-License: GNU Affero General Public License Version 3+
+License: GNU Affero General Public License Version v3+
 
 This is the official GitHub repository of SIP Trip Phone. It was created to point to the <a href="https://git.doublebastion.com/sip-trip-phone/" rel="noreferrer noopener" target="_blank">repository</a> where the application is actually developed, on our server.
 
